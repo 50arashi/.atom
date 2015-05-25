@@ -1,0 +1,17 @@
+"*":
+  "exception-reporting":
+    userId: "90de0c9a-ae07-b479-d1de-130a2409f71b"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "monokai"
+    ]
+  editor:
+    invisibles:
+      {}
+  linter:
+    {}
+  "linter-csslint":
+    {}
